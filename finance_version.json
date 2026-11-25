@@ -1,0 +1,34 @@
+{
+  "snapshot_id": "23d4a59d631e83e02ec9882b469be7d7039bb4c6a52849118a344596f4770149",
+  "exportedAt": "2026-11-25 15:28:56",
+  "sources": {
+    "linepay": {
+      "status": null,
+      "is_running": null,
+      "is_stale": null,
+      "last_success_at": null
+    },
+    "ubereats": {
+      "status": null,
+      "is_running": null,
+      "is_stale": null,
+      "last_success_at": null
+    },
+    "google_sheets": {
+      "status": null,
+      "is_running": null,
+      "is_stale": null,
+      "last_success_at": null
+    },
+    "bank_deposits": {
+      "status": null,
+      "is_running": null,
+      "is_stale": null,
+      "last_success_at": null
+    }
+  },
+  "publish_status": "DEPLOYING",
+  "public_verified": false,
+  "last_publication": null,
+  "alerts": []
+}
